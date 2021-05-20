@@ -5,6 +5,7 @@ Spring Boot와 React 개발 환경 포함 설정 완결본 (1-7에 해당) // 20
     <ul>
       <li>Spring Boot dev tool</li>
       <li>Spring</li>
+  </ul>
   </li>
   <li>jdk v1.8</li>
 </ol>
