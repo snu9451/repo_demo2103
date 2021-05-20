@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>index.jsp</title>
+<title>Insert title here</title>
 </head>
 <body>
-	서버 상태 테스트 페이지입니다.
+index.jsp
 </body>
 </html>
