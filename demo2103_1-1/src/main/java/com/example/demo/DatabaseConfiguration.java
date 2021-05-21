@@ -16,7 +16,11 @@ import org.springframework.context.annotation.PropertySource;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
-
+/*
+ * Singleton 객체: 한 번 생성한 객체를 보관했다가 동인한 객체를 리턴한다.
+ * 스프링은 설정 클래스를 그대로 사용하지 않는다.
+ * 대신 설정 클래스를 상속한 새로운 클래스를 만들어서 사용한다.
+ */
 
 @Configuration
 @PropertySource("classpath:/application.properties")
